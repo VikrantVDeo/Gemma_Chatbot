@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 
-load_dotenv(r"C:\Users\Vikrant Vivek Deo\Documents\GEN-AI\LangChain\OPENAI & OLLAMA\Ollama_Project\venv\.env")
+#load_dotenv(r"C:\Users\Vikrant Vivek Deo\Documents\GEN-AI\LangChain\OPENAI & OLLAMA\Ollama_Project\venv\.env")
 load_dotenv()
 
 from langchain_community.llms import Ollama
